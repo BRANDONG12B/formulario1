@@ -1,0 +1,19 @@
+.box {text-align: center}
+.box {font-family: cursive;}
+
+.box {font-family: georgia;}
+
+.box {font-family: fantasy;}
+
+.box {font-family: new times roman;}
+
+.box {font-family: monospace;}
+.box {color:red;}
+
+
+
+
+.box {
+    display: table-cell;
+    vertical-align: middle;
+}
